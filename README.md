@@ -17,5 +17,3 @@ Place all unzipped files in this directory, after which should contain:
     order_products__prior.csv
     order_products__train.csv
     sample_submission.csv
-
-##### IPython Notebook
